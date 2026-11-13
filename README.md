@@ -21,7 +21,7 @@ A command-line Rock Paper Scissors game developed in Python, featuring player vs
 1. Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/TassioTenorio/rock-paper-scissors-game-project.git
 ```
 
 2. Navigate to the project directory:
